@@ -7,7 +7,7 @@ I need to know the main color of those brands to make a social bar.
 ## The table of colors
 
 | Brand | Color Code | Source |
-| ------------- | ----------- |
+| ------------- | ----------- | ----------- | 
 |Facebook | #3B5998 | [Quora Q/A](http://www.quora.com/What-is-the-HEX-color-that-LinkedIn-uses-for-blue) |
 |Flickr | #FE0883 | [Quora Q/A](http://www.quora.com/What-is-the-HEX-color-that-LinkedIn-uses-for-blue) |
 |Foursquare | #8FD400 | [Quora Q/A](http://www.quora.com/What-is-the-HEX-color-that-LinkedIn-uses-for-blue) |
